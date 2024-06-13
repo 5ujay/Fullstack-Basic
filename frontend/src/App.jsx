@@ -13,7 +13,7 @@ function App() {
       })
       .catch((error) => console.log(error));
   }, []);
-  
+
   return (
     <>
       <h1>Hello World !</h1>
